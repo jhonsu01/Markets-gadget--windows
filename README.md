@@ -6,6 +6,7 @@ Para instalar es muy sencillo.
 tecla windows+ R
 abre ejecutar
 copiar y ejecutar la siguiente linea  %userprofile%\AppData\Local\Microsoft\Windows Sidebar\Gadgets
+
 se abre la carpeta de Gadgets donde estan todos
 
 Descargas el archivo codigo fuente del Markets.gadget, lo descomprime y pega la carpeta en la ubicacion abierta 

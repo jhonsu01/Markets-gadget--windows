@@ -1,5 +1,5 @@
 # Markets-gadget--windows
-myfxbook.com widgets un gadget para el escritorio en windows de apertura y cierrre de mercados financieros
+myfxbook.com widgets un gadget para el escritorio en windows de apertura  Horario de Mercados de Forex
 
 Para instalar es muy sencillo.
 

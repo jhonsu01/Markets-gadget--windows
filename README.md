@@ -13,7 +13,7 @@ Descargas el archivo codigo fuente copias la carpeta Markets.gadget a la ubicaci
 
 ir al escritorio clic derecho en gadgets buscar Markets y arrastrar al escritorio.
 
-Free Code es libre de copiar y modificar y adaptarlo a sus gadgets personalizados
+Free Code es libre de copiar y modificar y adaptarlo a sus gadgets personalizados,
 para mas informacion como crear los suyos ir a la documentacion de  https://msdn.microsoft.com/es-es/library/bb932286.aspx Introducción al desarrollo de gadgets por microsoft
 
 ![ScreenShot](https://github.com/jhonsu01/Markets-gadget--windows/blob/master/gadget.png)

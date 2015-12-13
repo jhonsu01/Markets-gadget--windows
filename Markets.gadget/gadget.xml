@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+    <name>Markets</name>
+    <namespace>Example.You</namespace>
+    <version>1.0.0.0</version>
+    <author name="Jhon Supelano">
+        <info url="www.facebook.com/JHONSU777" />
+    </author>
+    <copyright>&#169; 2015</copyright>
+    <description>MyWigets</description>
+    <hosts>
+        <host name="sidebar">
+            <base type="HTML" apiVersion="1.0.0" src="wigets.html" />
+            <permissions>Full</permissions>
+            <platform minPlatformVersion="1.0" />
+        </host>
+    </hosts>
+</gadget>

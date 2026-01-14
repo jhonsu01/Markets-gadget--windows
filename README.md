@@ -1,7 +1,7 @@
 # Markets-gadget--windows
 myfxbook.com widgets un gadget para el escritorio en windows, apertura  Horario de Mercados de Forex
 
-Para instalar es muy sencillo esto es compatible para versiones anteriores a windows 7
+Para instalar es muy sencillo esto es compatible para versiones windows 7 o vista.
 
 tecla windows+ R
 abre ejecutar

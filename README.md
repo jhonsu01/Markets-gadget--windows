@@ -13,7 +13,7 @@ Descargas el archivo codigo fuente botón Download ZIP, Descomprimir y copiar la
 
 ir al escritorio clic derecho en gadgets buscar Markets y arrastrar al escritorio.
 
-Para windows 10 o 11 estan seguir primero estas guias 👇🏼
+Para windows 10 o 11 estan estas opciones, seguir primero estas guias 👇🏼
 
 Opcion 1 https://gadgetsrevived.com/download-sidebar/
 Opcion 2 https://gadgetpack.net/howto.html

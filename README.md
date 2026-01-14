@@ -19,4 +19,4 @@ para mas informacion como crear los suyos ir a la documentacion de  https://msdn
 algunos widget que puede usar y adaptar al gadget
 http://www.myfxbook.com/widgets 
 
-![ScreenShot](https://github.com/jhonsu01/Markets-gadget--windows/blob/master/gadget.png)
+![ScreenShot](https://github.com/jhonsu01/Markets-gadget--windows/blob/master/gadgetv2.png)
